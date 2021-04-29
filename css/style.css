@@ -130,7 +130,7 @@ html {
     font-weight: 700;
 }
 
-@media screen and (min-width: 978px) {
+@media screen and (min-width: 970px) {
     #intro {
         background-image: url(./imgs/bg-intro-desktop.png);
         flex-direction: row;
